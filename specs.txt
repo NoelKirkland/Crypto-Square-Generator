@@ -1,0 +1,16 @@
+split text on ''
+assess char count
+map? char count to html grid
+splice? on 5 char
+
+
+Scrub input text of non-alpha characters
+Scrub text of whitespace
+count charachters
+compare character count to <= closest square number
+
+create mapping formula for each closest square
+
+match character string to appropriate square mapping
+
+seperate every five characters with one space
