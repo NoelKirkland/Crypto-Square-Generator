@@ -3,14 +3,12 @@ assess char count
 map? char count to html grid
 splice? on 5 char
 
-
+collect input sentance from index file
 Scrub input text of non-alpha characters
 Scrub text of whitespace
 count charachters
-compare character count to <= closest square number
-
+compare character count to <= closest square number (testing in ascending order)
 create mapping formula for each closest square
-
-match character string to appropriate square mapping
-
-seperate every five characters with one space
+rearange characters according to associated square structure
+seperate results by every five characters with one space
+output results in index file
